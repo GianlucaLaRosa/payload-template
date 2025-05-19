@@ -2,7 +2,7 @@
   "private": true,
   "author": "Gianluca La Rosa",
   "license": "MIT",
-  "name": "payload cms template",
+  "name": "payloadcms-template",
   "version": "0.1.0",
   "description": "A template for Payload CMS with Next.js and Supabase.",
   "scripts": {
